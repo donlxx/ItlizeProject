@@ -1,0 +1,10 @@
+com/itlize/springmvc/service/UserService.class
+com/itlize/springmvc/configuration/AppInitializer.class
+com/itlize/springmvc/dao/UserDao.class
+com/itlize/springmvc/controller/AppController.class
+com/itlize/springmvc/configuration/HibernateConfiguration.class
+com/itlize/springmvc/configuration/AppConfig.class
+com/itlize/springmvc/service/UserServiceImpl.class
+com/itlize/springmvc/dao/UserDaoImpl.class
+com/itlize/springmvc/model/User.class
+com/itlize/springmvc/dao/AbstractDao.class

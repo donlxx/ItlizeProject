@@ -1,0 +1,10 @@
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/controller/AppController.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/configuration/AppConfig.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/dao/UserDaoImpl.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/dao/UserDao.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/model/User.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/configuration/AppInitializer.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/service/UserService.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/service/UserServiceImpl.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/dao/AbstractDao.java
+/Users/xiaoxiao_lin/work/Training/J2EE/Individualproject/src/main/java/com/itlize/springmvc/configuration/HibernateConfiguration.java
